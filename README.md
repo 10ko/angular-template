@@ -18,3 +18,10 @@ Run:
 - `$ grunt watch`
 
 and make your changes.
+
+
+
+## TODO
+- Add Serice/Factory example
+- Cleanup Gruntfile.js
+- SCSS compilation
