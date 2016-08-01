@@ -11,7 +11,7 @@ module.exports = function(grunt) {
         },
       },
       css: {
-        files: 'stylesheets/scss/**/*.scss',
+        files: 'js/**/*.scss',
         tasks: ['sass:dev']
       },
       eslint: {
@@ -41,13 +41,11 @@ module.exports = function(grunt) {
     sass: {
       dev: {
         files: {
-          'dist/stylesheets/main.css': 'stylesheets/sass/main.scss'
+          'stylesheets/main.css': 'js/app/modules/base/style.scss'
         }
       }
     },
     clean: ['dist'],
-    cleanjs: ['dist/js/app'],
-    cleancss: ['dist/stylesheets/'],
     copy: {
       main: {
         files: [
