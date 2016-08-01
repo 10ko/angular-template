@@ -7,6 +7,8 @@
 
 ## To Run:
 
-Make your changes and run:
+Run:
 
 - `$ grunt watch`
+
+and make your changes.
