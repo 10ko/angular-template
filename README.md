@@ -1,6 +1,6 @@
-# mastersfordesigners
+# Angular Template
 
 To Install
 
-- `$ cd app` 
+- `$ npm install`
 - `$ bower install`

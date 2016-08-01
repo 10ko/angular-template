@@ -1,0 +1,38 @@
+{
+  "name": "angular-template",
+  "version": "0.0.1",
+  "description": "Template for bootstrapping AngularJS projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10ko/angular-template.git"
+  },
+  "author": "Emanuele Libralato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10ko/angular-template/issues"
+  },
+  "homepage": "https://github.com/10ko/angular-template",
+  "devDependencies": {
+    "bower": "^1.7.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-eslint": "^19.0.0",
+    "grunt-replace": "^1.0.1",
+    "grunt-string-replace": "^1.2.1",
+    "jshint-stylish": "latest"
+  }
+}
