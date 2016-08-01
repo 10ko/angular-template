@@ -1,0 +1,23 @@
+{
+  "name": "AngualarTemplate",
+  "homepage": "https://github.com/10ko/angular-template",
+  "authors": [
+    "Emanuele Libralato <e.libralato@gmail.com>"
+  ],
+  "description": "Bootstrap Angular Template",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
