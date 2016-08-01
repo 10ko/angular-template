@@ -1,7 +1,10 @@
 # Angular Template
 
 This is a template I am developing/using for bootstrapping AngularJs 1.x apps.
-It's not by any mean complete nor should be used in production.
+
+The goal is to have a clean template that can be used as a base for starting a new project.
+
+By no mean complete or well structured and still work in progress.
 
 ## To Install
 
