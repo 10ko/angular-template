@@ -1,6 +1,12 @@
 # Angular Template
 
-To Install
+## To Install
 
 - `$ npm install`
 - `$ bower install`
+
+## To Run:
+
+Make your changes and run:
+
+- `$ grunt watch`
