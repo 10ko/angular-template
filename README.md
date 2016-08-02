@@ -22,6 +22,6 @@ and make your changes.
 
 
 ## TODO
-- Add Serice/Factory example
+- Add Service/Factory example
 - Cleanup Gruntfile.js
 - SCSS compilation review
